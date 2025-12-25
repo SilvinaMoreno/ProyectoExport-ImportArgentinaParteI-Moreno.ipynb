@@ -1,5 +1,5 @@
 
-#**Introducción**
+# **Introducción**
 El presente proyecto se enfoca en el análisis de las exportaciones argentinas registradas entre los años 2015 y 2025, utilizando información oficial proveniente del portal gubernamental datos.gob.ar. Esta plataforma reúne datos públicos de distintos organismos del Estado, ofreciendo acceso abierto a información relevante para comprender fenómenos económicos, sociales y productivos del país.
 
 El dataset seleccionado contiene registros detallados sobre los bienes exportados por Argentina, organizados por categorías que permiten explorar la estructura productiva nacional desde diferentes ángulos. Entre las variables disponibles se incluyen el año y mes de exportación, el valor en dólares, el peso neto de la mercadería, la provincia de origen, la región, y la clasificación del bien según rubro y tipo de producto. Esta organización posibilita un análisis rico y multidimensional del comportamiento exportador a lo largo del tiempo.
