@@ -46,3 +46,12 @@ El dataset se encuentra en la carpeta `/data` del repositorio.
 - Google Colab  
 
 ---
+
+
+## 📈 Principales hallazgos
+
+- Se observan ciclos marcados en exportaciones e importaciones asociados a contextos macroeconómicos.
+- Las exportaciones muestran una tendencia creciente a largo plazo, con períodos de alta volatilidad.
+- La comparación temporal permite identificar momentos de superávit y déficit comercial.
+
+Estos resultados constituyen una base para futuros análisis con variables económicas y modelos predictivos.
